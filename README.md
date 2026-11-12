@@ -298,7 +298,7 @@ Output  : Hello, World!
 
 ## Lisensi
 
-Proyek ini dibuat untuk keperluan edukasi mata kuliah **Kriptografi** — Semester 5, Program Studi Teknologi Informasi.
+Proyek ini dibuat untuk keperluan edukasi mata kuliah **Kriptografi** — Semester 5, Program Studi Informatika.
 
 ---
 
